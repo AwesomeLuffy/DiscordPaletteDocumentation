@@ -1,0 +1,3 @@
+# About DiscordPalette
+
+Start typing here...

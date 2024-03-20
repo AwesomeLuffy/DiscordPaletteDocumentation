@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="di"
+                 name="DiscordPalette Instance"
+                 start-page="Introduction.md">
+
+    <toc-element topic="Introduction.md"/>
+    <toc-element topic="Discord-API.md"/>
+    <toc-element topic="Installation.md"/>
+    <toc-element topic="Get-started.md">
+        <toc-element topic="Discord-Bot.md"/>
+        <toc-element topic="JDA-base-code.md"/>
+        <toc-element topic="JDA-and-BeepBeep.md"/>
+    </toc-element>
+    <toc-element topic="Processors.md">
+        <toc-element topic="DiscordMessageReader.md"/>
+        <toc-element topic="Messages.md"/>
+        <toc-element topic="Members.md"/>
+        <toc-element topic="Users.md"/>
+        <toc-element topic="Guilds.md"/>
+        <toc-element topic="FileAttachments.md"/>
+        <toc-element topic="MessagesChannels.md"/>
+    </toc-element>
+    <toc-element topic="Bot-Action.md"/>
+
+</instance-profile>
